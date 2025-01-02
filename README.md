@@ -6,7 +6,7 @@
 
 This repo presents a Transformer-based model that achieves 89% accuracy in pre-snap man/zone coverage prediction, peaking at 93% one second after the snap. The accompanying frontend tool (linked above) acts as an interactive football field, allowing users to experiment with defensive alignments and observe how adjustments impact coverage probabilities. We also include movement pattern maps that highlights which defenders most frequently telegraph their team's coverage and how they do it. 
 
-For any modeling/visualization questions, reach out to @smitbajaj [LINK](https://github.com/smitbajaj) & frontend questions, reach out to @VSandwar74 LINK](https://github.com/VSandwar74).
+For any modeling/visualization questions, reach out to @smitbajaj & frontend questions, reach out to @VSandwar74.
 
 ### Instructions/Documentation
 The notebooks in `notebooks-bdb-2025` are in a sequential order as follows:
