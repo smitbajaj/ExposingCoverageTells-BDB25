@@ -1,5 +1,5 @@
-**Full writeup/explanation**: [LINK](https://www.kaggle.com/code/smitbajaj/set-a-framework-to-evaluate-edge-setters) | 
-**Frontend tool:**  [LINK](https://www.kaggle.com/code/smitbajaj/set-a-framework-to-evaluate-edge-setters) |
+**Full writeup/explanation**: [LINK](https://www.kaggle.com/code/smitbajaj/exposing-coverage-tells-in-the-presnap?scriptVersionId=216408295) | 
+**Frontend tool (To Be Released):**  [LINK](https://github.com/VSandwar74/NFL) |
 **Frontend repo:**  [LINK](https://github.com/VSandwar74/NFL) 
 
 ## Exposing Coverage Tells in the Presnap
